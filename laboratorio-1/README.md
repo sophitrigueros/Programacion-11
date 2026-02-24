@@ -1,0 +1,1 @@
+![Imagen de C++](captura_c++.png)
