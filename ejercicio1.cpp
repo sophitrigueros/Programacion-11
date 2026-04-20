@@ -5,7 +5,7 @@ using namespace std;
 
 bool es_palindromo (string palabra) {
     int inicio = 0;
-    int fin = palabra.lenght () -1;
+    int fin = palabra.length() -1;
 
     while (inicio < fin){
         if (tolower(palabra[inicio]) != tolower (palabra[fin])){
