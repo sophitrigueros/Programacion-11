@@ -1,0 +1,11 @@
+1. B
+2. B
+3. D
+4. C
+5. A
+6. Es en la parte del while, porque cuando el programa lo empieza a ejecutar 
+se confunde con lo que tiene que hacer y simplemente devuelve los dos valores.
+7. C
+8. B
+9. A
+10. B
